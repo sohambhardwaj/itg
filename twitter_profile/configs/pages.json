@@ -1,0 +1,66 @@
+{
+    "Aaj Tak" : {
+        "Slug" : "Aajtak",
+        "Screen_name" : "@aajtak"
+    },
+    "ABP News" : {
+        "Slug" : "ABPNews",
+        "Screen_name" : "@ABPNews"
+    },
+    "Zee News" : {
+        "Slug" : "ZeeNews",
+        "Screen_name" : "@ZeeNews"
+    },
+    "India TV" : {
+        "Slug" : "IndiaTV",
+        "Screen_name" : "@indiatvnews"
+    },
+    "News18 India" : {
+        "Slug" : "News18India",
+        "Screen_name" : "@News18India"
+    },
+    "Republic Bharat" : {
+        "Slug" : "RepublicBharat",
+        "Screen_name" : "@Republic_Bharat"
+    },
+    "NDTV" : {
+        "Slug" : "NDTV",
+        "Screen_name" : "@ndtv"
+    },
+    "Times Now" : {
+        "Slug" : "TimesNow",
+        "Screen_name" : "@TimesNow"
+    },
+    "India Today" : {
+        "Slug" : "IndiaToday",
+        "Screen_name" : "@IndiaToday"
+    },
+    "CNN News18" : {
+        "Slug" : "CNNNews18",
+        "Screen_name" : "@CNNnews18"
+    },
+    "DD News" : {
+        "Slug" : "DDNews",
+        "Screen_name" : "@DDNewslive"
+    },
+    "TV9 Bharatvarsh" : {
+        "Slug" : "TV9Bharatvarsh",
+        "Screen_name" : "@TV9Bharatvarsh"
+    },
+    "Tez TV" : {
+        "Slug" : "TezTV",
+        "Screen_name" : "@TezChannel"
+    },
+    "Republic" : {
+        "Slug" : "Republic",
+        "Screen_name" : "@republic"
+    },
+    "WION" : {
+        "Slug" : "Wion",
+        "Screen_name" : "@WIONews"
+    },
+    "NewsX" : {
+        "Slug" : "NewsX",
+        "Screen_name" : "@NewsX"
+    }
+}

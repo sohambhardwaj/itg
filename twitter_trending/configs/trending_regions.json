@@ -1,0 +1,33 @@
+{
+    "Thread-1" : {
+        "Locations" : [
+            "India",
+            "Amritsar, India",
+            "Bangaluru, India",
+            "Bhopal, India",
+            "Chennai, India",
+            "Delhi, India",
+            "Hyderabad, India",
+            "Indore, India",
+            "Jaipur, India",
+            "Kanpur, India",
+            "Kolkata, India",
+            "Lucknow, India"
+        ]
+    },
+    
+    "Thread-2" : {
+        "Locations" : [
+            "Mumbai, India",
+            "Nagpur, India",
+            "Patna, India",
+            "Pune, India",
+            "Rajkot, India",
+            "Ranchi, India",
+            "Surat, India",
+            "Thane, India",
+            "United States",
+            "United Kingdom"
+        ]
+    }
+}
